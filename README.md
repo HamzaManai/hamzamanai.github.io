@@ -3,7 +3,7 @@
 This is a personal portfolio website for myself,Hamza Manai, showcasing professional experience, education, skills, and projects.
 
 ## Technologies Used
-- HTML5
+c HTML5
 - CSS3
 - Font Awesome icons
 - Responsive design principles
@@ -12,5 +12,5 @@ This is a personal portfolio website for myself,Hamza Manai, showcasing professi
 This website is deployed using GitHub Pages.
 
 ## Contact
-Email: hamza.manaim@gmail.com
-Linkedin: linkedin.com/in/manaihamza
+Email: hamza.manaim@gmail.com / 
+Linkedin: [linkedin.com/in/manaihamza](https://www.linkedin.com/in/manaihamza/)
